@@ -1,0 +1,67 @@
+
+{
+  "profile": {
+    "name": "Khushi Sharma",
+    "email": "khushi@example.com",
+    "phone": "9876543210",
+    "location": "Gurugram, India",
+    "summary": "Computer Science student interested in backend development, machine learning, and data analysis.",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "SQL",
+      "Machine Learning",
+      "Pandas",
+      "scikit-learn"
+    ],
+    "education": [
+      "B.Tech in Computer Science and Engineering"
+    ],
+    "experience": [
+      {
+        "role": "Volunteering Intern",
+        "company": "She Can Foundation",
+        "dates": "Feb 2024 - Mar 2024",
+        "bullets": [
+          "Conducted data collection and research.",
+          "Supported reporting and campaign tracking."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Phone Prediction Analysis",
+        "technologies": [
+          "Python",
+          "Pandas",
+          "scikit-learn",
+          "Streamlit"
+        ],
+        "description": "A machine learning project that analyzes phone usage and study habits.",
+        "bullets": [
+          "Prepared data for analysis and model training.",
+          "Deployed the application using Streamlit."
+        ]
+      },
+      {
+        "name": "Image Processing Service",
+        "technologies": [
+          "Node.js",
+          "Express.js",
+          "TypeScript",
+          "MongoDB"
+        ],
+        "description": "A backend service for uploading, storing, and processing images.",
+        "bullets": [
+          "Implemented image-processing API functionality.",
+          "Integrated cloud image storage."
+        ]
+      }
+    ]
+  },
+  "job_title": "Junior Python Developer",
+  "job_description": "We are looking for a Junior Python Developer with Python, SQL, REST API development, Git, data analysis, and machine learning fundamentals."
+}
